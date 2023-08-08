@@ -4,7 +4,7 @@ import { FlatList, Image, TouchableOpacity, View, Text, SafeAreaView, ActivityIn
 import useFetch from '../../hook/useFetch';
 import styles from './search.style'
 import { NearbyJobCard, ScreenHeaderBtn } from '../../components';
-import { COLORS, Icons } from '../../constants';
+import { COLORS, Icons, SIZES } from '../../constants';
 
 const SearchJob = () => {
   const params = useSearchParams();

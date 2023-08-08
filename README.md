@@ -17,6 +17,12 @@ I also used RapidAPI to access job listings from various sources. RapidAPI allow
 - Save jobs for later viewing
 - Welcome page with information about the app and its features
 
+## Demo Video
+
+Check out this demo video of JobFinder RN:
+
+![JobFinder RN Demo Video](./assets/jobfinder-rn.mp4)
+
 ## Installation
 
 To install the app, follow these steps:
