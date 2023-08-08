@@ -21,7 +21,7 @@ I also used RapidAPI to access job listings from various sources. RapidAPI allow
 
 Check out this demo video of JobFinder RN:
 
-![JobFinder RN Demo Video](https://github.com/mrezayusufy/rn-jobfinder/raw/main/assets/jobfinder-rn.mp4)
+![JobFinder RN Demo Video](https://user-images.githubusercontent.com/mrezayusufy/rn-jobfinder/blob/main/assets/jobfinder-rn.mp4)
 
 ## Installation
 
