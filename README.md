@@ -1,4 +1,5 @@
 # JobFinder RN
+![JobFinder RN Demo](./preview.png)
 
 🔍📝👋 A React Native job finder app with search, job detail, and welcome pages.
 
@@ -21,7 +22,7 @@ I also used RapidAPI to access job listings from various sources. RapidAPI allow
 
 Check out this demo video of JobFinder RN:
 
-![JobFinder RN Demo Video](https://user-images.githubusercontent.com/mrezayusufy/rn-jobfinder/blob/main/assets/jobfinder-rn.mp4)
+[JobFinder RN Demo Video](https://github.com/mrezayusufy/rn-jobfinder/assets/29449539/5b0dc428-ccbf-487d-b75e-74dac3516899)
 
 ## Installation
 
