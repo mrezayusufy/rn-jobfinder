@@ -1,4 +1,5 @@
 # JobFinder RN
+![JobFinder RN Demo](./preview.png)
 
 🔍📝👋 A React Native job finder app with search, job detail, and welcome pages.
 
