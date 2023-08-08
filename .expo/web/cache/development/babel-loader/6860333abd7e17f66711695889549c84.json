@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Head from \"./src/head/Head\";\nexport default Head;","map":{"version":3,"names":["Head"],"sources":["C:/react-project/rn-jobs/node_modules/expo-router/head.ts"],"sourcesContent":["import Head from \"./src/head/Head\";\n\nexport default Head;\n"],"mappings":"AAAA,OAAOA,IAAI;AAEX,eAAeA,IAAI"},"metadata":{},"sourceType":"module"}

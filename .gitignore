@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-node_modules/
-.expo/
-dist/
-npm-debug.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
-web-build/
-
-# macOS
-.DS_Store
-=======
 # Logs
 logs
 *.log
@@ -144,4 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
->>>>>>> 62116b40dc006989a355ee46aa483593022bd46e
